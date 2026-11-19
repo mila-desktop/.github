@@ -16,7 +16,7 @@
   </p>
   <br />
   <a href="https://github.com/mila-desktop/desktop">
-    <img src="https://raw.githubusercontent.com/mila-desktop/desktop/main/images/hero.png" alt="Mila" width="100%" />
+    <img src="https://raw.githubusercontent.com/mila-desktop/desktop/main/images/home-hero.png" alt="Mila" width="100%" />
   </a>
 </div>
 
@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/mila-desktop/desktop/main/images/animepage.png" alt="Anime Page" width="100%" />
+      <img src="https://raw.githubusercontent.com/mila-desktop/desktop/main/images/anime-page.png" alt="Anime Page" width="100%" />
       <p align="center"><sub>Anime page &amp; seasons</sub></p>
     </td>
     <td width="50%" valign="top">
@@ -39,7 +39,7 @@
       <p align="center"><sub>HLS/MP4 &amp; torrent player</sub></p>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/mila-desktop/desktop/main/images/library.png" alt="Library" width="100%" />
+      <img src="https://raw.githubusercontent.com/mila-desktop/desktop/main/images/library-view.png" alt="Library" width="100%" />
       <p align="center"><sub>Library &amp; watch history</sub></p>
     </td>
   </tr>
